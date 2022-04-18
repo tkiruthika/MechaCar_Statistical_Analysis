@@ -72,15 +72,15 @@ The One Sample t-test of all the suspension coils in the manufacturing lots retu
 
 ## Study Design: MechaCar vs Competition
 
-The plan is to design the MechaCar vehicle to perform better than the general marketplace vehicles. To accomplish this goal we need to determine fuel efficiency, as well as fuel efficiency over time. The dataset must include general marketplace competitor's data for comparison.
+The study is to design the MechaCar vehicle to perform better than the general marketplace vehicles. To accomplish this goal we need to determine fuel efficiency, as well as fuel efficiency over time. The dataset must include general marketplace competitor's data for comparison.
 
   - **What metric or metrics are you going to test?**
  
-  The metrics to test would be the fuel efficiency and engine.
+  The metrics to test would be the fuel efficiency and engine compared to the competitors.
   
   - **What is the null hypothesis or alternative hypothesis?**
   
-  The Null Hypothesis would be that MechaCars have same values for fuel efficiency. The Alternative Hypothesis is that MechaCars have different values for fuel efficiency.
+  The Null Hypothesis would be that MechaCars have same values for fuel efficiency compared to other competitors. The Alternative Hypothesis is that MechaCars have different values for fuel efficiency compared to other competitors.
   
   - **What statistical test would you use to test the hypothesis? And why?**
 
@@ -88,4 +88,4 @@ The plan is to design the MechaCar vehicle to perform better than the general ma
 
   - **What data is needed to run the statistical test?**
   
-  To run this statistical test we will need the MechaCars fuel efficiency data as well as the mean data.
+  To run this statistical test we will need the MechaCars fuel efficiency data as well as the mean data from competitors.
