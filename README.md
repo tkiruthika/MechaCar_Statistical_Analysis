@@ -72,7 +72,7 @@ The One Sample t-test of all the suspension coils in the manufacturing lots retu
 
 ## Study Design: MechaCar vs Competition
 
-The study is to design the MechaCar vehicle to perform better than the general marketplace vehicles. To accomplish this goal we need to determine fuel efficiency, as well as fuel efficiency over time. The dataset must include general marketplace competitor's data for comparison.
+The study is to design the MechaCar vehicle to perform better than the general marketplace vehicles. To accomplish this goal we need to determine fuel efficiency, as well as fuel efficiency over time. The dataset must include general marketplace competitors data for comparison.
 
   - **What metric or metrics are you going to test?**
  
